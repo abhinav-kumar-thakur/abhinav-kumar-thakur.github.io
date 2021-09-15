@@ -20,16 +20,16 @@
 
 title: Abhinav Kumar Thakur
 description: >- # this means to ignore newlines until "baseurl:"
-  Graduate student at University of Southern California, Specializing in Machine Learning and Data Science.
+#  description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://abhinav-kumar-thakur.github.io
-linkedin_username: abhinav-kumar-thakur
-github_username:  abhinav-kumar-thakur
+#url: https://abhinav-kumar-thakur.github.io
+#linkedin_username: abhinav-kumar-thakur
+#github_username:  abhinav-kumar-thakur
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minimal-mistakes-jekyll
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

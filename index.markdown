@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Abhinav Kumar Thakur
 ---
+# Abhinav Kumar Thakur
+
+### Links 
+[LinkedIn](https://www.linkedin.com/in/abhinav-kumar-thakur/) | [Github](https://github.com/abhinav-kumar-thakur) | [Google Scholar](https://scholar.google.com/citations?user=ksGBoUkAAAAJ&hl=en)
