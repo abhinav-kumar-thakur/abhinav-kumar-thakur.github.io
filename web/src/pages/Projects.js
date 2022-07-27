@@ -35,7 +35,7 @@ export function Projects() {
                         <ul>
                             <li>
                                 <p>
-                                    Implemented <a href={"https://github.com/abhinav-kumar-thakur/csci662-project"}>(csci662-project)</a> 3-stage model (Potential relation detection, Relation specific entity extraction, and Subject-Object alignment using global correspondence) using Pytorch (referring <a href={"https://aclanthology.org/2021.acl-long.486/"}>PRGC paper</a>)  and obtained F1 score of 85% on the WebNLG dataset.
+                                    Implemented <a href={"https://github.com/abhinav-kumar-thakur/csci662-project"}>(CSCI662-project)</a> 3-stage model (Potential relation detection, Relation specific entity extraction, and Subject-Object alignment using global correspondence) using Pytorch (referring <a href={"https://aclanthology.org/2021.acl-long.486/"}>PRGC paper</a>)  and obtained F1 score of 85% on the WebNLG dataset.
                                 </p>
                             </li>
                             <li>
