@@ -22,6 +22,11 @@ export function Home() {
                     </Col>
                 </Row>
             </Container>
+
+            <Container>
+                <Title title="R V College of Engineering, Bengaluru, India"  comment="Aug 2012-May 2016" />
+                <SubTitle title="Bachelor of Engineering in Electronics and Communication Engineering" comment=" GPA: 8.74/10.0" />
+            </Container>
         </div>
     );
 }
