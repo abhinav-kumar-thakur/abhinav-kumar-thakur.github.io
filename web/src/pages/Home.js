@@ -47,7 +47,6 @@ export function Home() {
                             <hr />
                             <Row>
                                 <Title title="Skills" />
-                                <nobr><b>Programming Languages:</b>  Python, Java, C/C++, JavaScript, HTML/CSS</nobr>
                                 <nobr><b>Programming Languages & Tools:</b> Python, C++, Golang, Scala, JavaScript </nobr>
                                 <nobr><b>Tools:</b> Git, Make, Splunk, New Relic, Postman </nobr>
                                 <nobr><b>Frameworks:</b> Spark, Pytorch, Flask, ReactJS, Django, Matlab, Docker, Pytest, Cypress, Locust, GoCD, PostgreSQL, MongoDB </nobr>

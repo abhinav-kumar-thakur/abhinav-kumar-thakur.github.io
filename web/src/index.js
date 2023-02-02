@@ -19,15 +19,15 @@ root.render(
                 <Container>
                     <Navbar.Brand href="/">Abhinav Kumar Thakur</Navbar.Brand>
                     <Nav className="me-auto">
-                        <Nav.Link href="#/education">Education</Nav.Link>
                         <Nav.Link href="#/experience">Work Experience</Nav.Link>
+                        <Nav.Link href="#/education">Education</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
             <Routes>
                 <Route path="/" element={<Home />}></Route>
-                <Route path="/education" element={<Education />}></Route>
                 <Route path="/experience" element={<WorkExperience />}></Route>
+                <Route path="/education" element={<Education />}></Route>
             </Routes>
         </HashRouter>
     </React.StrictMode>

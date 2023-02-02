@@ -18,8 +18,8 @@ export function WorkExperience() {
                     <Nav variant="pills" className="flex-column">
                         <Nav.Item>
                             <Nav.Link eventKey="edos">
-                                Individual Researcher <br />
-                                Natural Language Processing <br />
+                                NLP Researcher <br />
+                                (Pet Project) <br />
                                 Dec 2022-Jan 2023 <br />
                             </Nav.Link>
                         </Nav.Item>
