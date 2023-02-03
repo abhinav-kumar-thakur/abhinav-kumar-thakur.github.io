@@ -7,10 +7,6 @@ export function ListPoint(props) {
     console.log(link);
 
     return (
-        <Row>
-            <Col sm={10}>
-                <GiBullseye/> {point} {link ? <a target="_blank" rel="noopener noreferrer" href={link}> {icon} </a> : null}
-            </Col>
-        </Row>
+        <span><GiBullseye/> {point} {link ? <a target="_blank" rel="noopener noreferrer" href={link}> {icon} </a> : null}</span>
     );
 }

@@ -11,13 +11,15 @@ import { WorkExperience } from "./pages/WorkExperience";
 import { Education } from "./pages/Education";
 import { Home } from "./pages/Home";
 
+// Don't model navbar when scrolling
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <React.StrictMode>
         <HashRouter>
             <Navbar bg="dark" variant="dark">
                 <Container>
-                    <Navbar.Brand href="/">Abhinav Kumar Thakur</Navbar.Brand>
+                    <Navbar.Brand href="/" fi>Abhinav Kumar Thakur</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link href="#/experience">Work Experience</Nav.Link>
                         <Nav.Link href="#/education">Education</Nav.Link>

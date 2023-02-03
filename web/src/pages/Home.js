@@ -47,10 +47,11 @@ export function Home() {
                             <hr />
                             <Row>
                                 <Title title="Skills" />
-                                <nobr><b>Programming Languages & Tools:</b> Python, C++, Golang, Scala, JavaScript </nobr>
-                                <nobr><b>Tools:</b> Git, Make, Splunk, New Relic, Postman </nobr>
-                                <nobr><b>Frameworks:</b> Spark, Pytorch, Flask, ReactJS, Django, Matlab, Docker, Pytest, Cypress, Locust, GoCD, PostgreSQL, MongoDB </nobr>
-                                <nobr><b>Domain Experience:</b> Machine Learning, Natural Language Processing, Data Mining, Pricing, Knowledge Graphs, ETL, CI/CD </nobr>
+                                <p><b>Programming Languages & Tools:</b> Python, C++, Golang, Scala, JavaScript<br/>
+                                <b>Tools:</b> Git, Make, Splunk, New Relic, Postman<br/>
+                                <b>Frameworks:</b> Spark, Pytorch, Flask, ReactJS, Django, Matlab, Docker, Pytest, Cypress, Locust, GoCD, PostgreSQL, MongoDB <br/>
+                                <b>Domain Experience:</b> Machine Learning, Natural Language Processing, Data Mining, Pricing, Knowledge Graphs, ETL, CI/CD <br/>
+                                </p>
                             </Row>
                             <hr />
                             <Row>
