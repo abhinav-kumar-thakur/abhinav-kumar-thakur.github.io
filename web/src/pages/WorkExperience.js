@@ -18,10 +18,18 @@ export function WorkExperience() {
                 <Col sm={3}>
                     <Nav variant="pills" className="flex-column">
                         <Nav.Item>
+                            <Nav.Link eventKey="cgg">
+                                Seismic Imaging Analyst <br />
+                                CGG, US <br />
+                                May 2023-Present <br />
+                            </Nav.Link>
+                        </Nav.Item>
+                        <hr />
+                        <Nav.Item>
                             <Nav.Link eventKey="usc-hal-opt">
                                 Machine Learning Researcher <br />
                                 Hardware Accelerated Learning Lab, USC <br />
-                                Feb 2023-Present <br />
+                                Feb 2023-May 2023 <br />
                             </Nav.Link>
                         </Nav.Item>
                         <hr />
@@ -69,7 +77,16 @@ export function WorkExperience() {
                 </Col>
                 <Col sm={8}>
                     <Tab.Content>
-                    <Tab.Pane eventKey="usc-hal-opt">
+
+                        <Tab.Pane eventKey="cgg">
+                            <Title title="Seismic Imaging Analyst, CGG [Full Time]" comment="May 2023-Present" />
+                            <hr />
+                            <Row>
+                                <ListPoint point="Seismic Data Processing, Noise Attenuation, Seismic Imaging and Signal Processing." />
+                            </Row>
+                        </Tab.Pane>
+
+                        <Tab.Pane eventKey="usc-hal-opt">
                             <Title title="Machine Learning Researcher, USC [OPT]" comment="Feb 2023-Present" />
                             <hr />
                             <Row>
