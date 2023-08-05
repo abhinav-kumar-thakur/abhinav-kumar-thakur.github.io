@@ -8,7 +8,7 @@ import { Publication } from "../components/Publication";
 
 export function WorkExperience() {
     return (
-        <Tab.Container id="left-tabs-example" defaultActiveKey="usc-hal">
+        <Tab.Container id="left-tabs-example" defaultActiveKey="cgg">
             <hr />
             <Container>
                 <h3>Work Experience</h3>
